@@ -1,0 +1,27 @@
+{
+  "catalogVersion": 1,
+  "updatedAt": "2026-05-20T00:00:00.000Z",
+  "modules": [
+    {
+      "id": "word-pro",
+      "name": "Word Pro",
+      "version": "1.0.0",
+      "description": "Modulo Word demo importabile da marketplace.",
+      "publisher": {
+        "id": "demo",
+        "name": "Shortcut Deck"
+      },
+      "license": {
+        "type": "commercial",
+        "owner": "Shortcut Deck Demo"
+      },
+      "minAppVersion": "0.1.0",
+      "packageUrl": "modules/word-pro.shortcutdeck.zip",
+      "sha256": "a94a725ab5535f0050ef21ce0f4654c7bdae3eec9ba4a6aaaad58c18a6ee3992",
+      "sizeBytes": 6272,
+      "tags": ["word", "office", "demo"]
+    }
+  ],
+  "revokedModules": [],
+  "revokedPublishers": []
+}
