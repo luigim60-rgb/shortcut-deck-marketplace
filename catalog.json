@@ -1,14 +1,37 @@
 {
   "catalogVersion": 1,
-  "updatedAt": "2026-05-20T00:00:00.000Z",
+  "updatedAt": "2026-05-20T07:01:03.791Z",
   "modules": [
+    {
+      "id": "lightburn",
+      "name": "LightBurn",
+      "version": "1.0.0",
+      "description": "Modulo iniziale per comandi rapidi LightBurn.",
+      "publisher": {
+        "id": "shortcut-deck",
+        "name": "Shortcut Deck"
+      },
+      "license": {
+        "type": "free",
+        "owner": "Shortcut Deck"
+      },
+      "minAppVersion": "0.1.0",
+      "packageUrl": "lightburn.shortcutdeck.zip",
+      "sha256": "167711784f854a2dc2c24d22b6259702608d6be3d2fd397085209fdcd3610761",
+      "sizeBytes": 3564155,
+      "tags": [
+        "lightburn",
+        "laser",
+        "grafica"
+      ]
+    },
     {
       "id": "word-pro",
       "name": "Word Pro",
       "version": "1.0.0",
-      "description": "Modulo Word demo importabile da marketplace.",
+      "description": "Modulo Word demo importabile da pacchetto ZIP.",
       "publisher": {
-        "id": "demo",
+        "id": "81b4b44301a4bc7f",
         "name": "Shortcut Deck"
       },
       "license": {
@@ -19,7 +42,11 @@
       "packageUrl": "word-pro.shortcutdeck.zip",
       "sha256": "a94a725ab5535f0050ef21ce0f4654c7bdae3eec9ba4a6aaaad58c18a6ee3992",
       "sizeBytes": 6272,
-      "tags": ["word", "office", "demo"]
+      "tags": [
+        "word",
+        "office",
+        "demo"
+      ]
     }
   ],
   "revokedModules": [],
