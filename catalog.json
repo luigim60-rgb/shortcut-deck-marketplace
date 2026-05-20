@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updatedAt": "2026-05-20T07:01:03.791Z",
+  "updatedAt": "2026-05-20T07:34:30.540Z",
   "modules": [
     {
       "id": "lightburn",
@@ -12,13 +12,13 @@
         "name": "Shortcut Deck"
       },
       "license": {
-        "type": "free",
+        "type": "commercial-module",
         "owner": "Shortcut Deck"
       },
       "minAppVersion": "0.1.0",
       "packageUrl": "lightburn.shortcutdeck.zip",
-      "sha256": "167711784f854a2dc2c24d22b6259702608d6be3d2fd397085209fdcd3610761",
-      "sizeBytes": 3564155,
+      "sha256": "b30be21b29019343fb7a480557a94a3ade649a810bc26afa164444948294ef93",
+      "sizeBytes": 3564298,
       "tags": [
         "lightburn",
         "laser",
